@@ -1,0 +1,10 @@
+{
+  "title": "Netflixx",
+  "webURL": "https://pcmirror.cc/home",
+
+  "appInfo": {
+    "name": "netflixx",
+    "package": "com.mahatab.netflixx",
+    "version": "1.0.0"
+  }
+}
