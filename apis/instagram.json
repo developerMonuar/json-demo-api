@@ -1,5 +1,5 @@
 {
-    "show_dialog": true,
+    "show_dialog": false,
     "title": "Download InstaPro",
     "message": "Update Your InstaPro App",
     "button_text": "Download Now",
