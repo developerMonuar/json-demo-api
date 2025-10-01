@@ -1,5 +1,5 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": "Download InstPro via MHX",
   "content_url": "https://sudipmhx.vercel.app/",
   "positive_btn": "Download Now",
